@@ -3,4 +3,4 @@ services:
   react-app:
     build: .
     ports:
-      - "5005:80"
+      - "5000:80"
